@@ -1,5 +1,5 @@
-- 👋 Olá, me chamo Gabriel Nascimento
-- 👀 Eu tenho muito interesse na área de tecnologia, análise e modelagem de dados.
-- 🌱 Tenho vontade de aprender e descobrir o funcionamento e processos de equipamentos.
-- 💞️ Tenho facilidade de trabalho em equipe, metodologias ágeis e pró ativo.
-- 📫 Me envie um email GabrielNascimento751@outlook.com
+- 👋 Hi, my name is Gabriel Nascimento
+- 👀 I am very interested in the area of technology, analysis and data modeling.
+- 🌱 I want to learn and discover the operation and processes of equipment.
+- 💞️ I have teamwork facility, agile and proactive methodologies.
+- 📫 Send me a email GabrielNascimento751@outlook.com
