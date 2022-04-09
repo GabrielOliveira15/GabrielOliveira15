@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Gabriel Nascimento
+- 👀 Eu tenho muito interesse na área de tecnologia, análise e modelagem de dados.
+- 🌱 Tenho vontade de aprender e descobrir o funcionamento e processos de equipamentos.
+- 💞️ Tenho facilidade de trabalho em equipe, metodologias ágeis e pró ativo.
+- 📫 Me envie um email GabrielNascimento751@outlook.com
